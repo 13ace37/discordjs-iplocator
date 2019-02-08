@@ -81,3 +81,9 @@ Geolocate IP / Resolve Domain
 }`
 
 `http://www.google.com/maps/place/37.751,-97.822`
+
+# Installing
+- `git clone 13ace37/discordjs-iplocator`
+- `npm i`
+- enter ur bot-token in the `config.json`
+- `node iplocator.js`
