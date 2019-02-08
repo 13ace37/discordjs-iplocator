@@ -1,0 +1,28 @@
+{
+  "name": "discordjs-iplocator",
+  "version": "1.1.0",
+  "description": "IPLocator for Discord",
+  "main": "iplocator.js",
+  "dependencies": {
+    "discord.js": "^11.4.2",
+    "superagent": "^4.0.0-beta.5"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/13ace37/discordjs-iplocator"
+  },
+  "keywords": [
+    "discordjs",
+    "discord"
+  ],
+  "author": "Riccardo H.",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/13ace37/discordjs-iplocator"
+  },
+  "homepage": "https://github.com/13ace37/discordjs-iplocator#readme"
+}
