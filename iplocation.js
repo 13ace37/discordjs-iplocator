@@ -18,7 +18,7 @@ client.on("ready", () => {
         client.user.setStatus("idle");
     }, 5 * 1000);
 });
-bot.on("error", () => {
+client.on("error", () => {
     console.log("[Discord] Error!");
 });
 client.on("message", (msg) => {
