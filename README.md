@@ -64,7 +64,8 @@ Geolocate IP / Resolve Domain
 ]`
 - Geolocate IP
 
-`    "status": "success",
+`{
+    "status": "success",
     "as": "AS15169",
     "city": "",
     "country": "United States",
