@@ -9,7 +9,8 @@ Geolocate IP / Resolve Domain
 
 - Resolve Domain
 
-`[
+```JSON 
+[
     {
         "address": "172.217.168.46",
         "ttl": 0,
@@ -61,10 +62,13 @@ Geolocate IP / Resolve Domain
         "value": "ns3.google.com",
         "type": "NS"
     }
-]`
+]
+```
+
 - Geolocate IP
 
-`{
+``` JSON
+{
     "status": "success",
     "as": "AS15169",
     "city": "",
@@ -79,7 +83,9 @@ Geolocate IP / Resolve Domain
     "regionName": "",
     "timezone": "",
     "zip": ""
-}`
+}
+```
+
 
 `http://www.google.com/maps/place/37.751,-97.822`
 
