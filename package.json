@@ -4,7 +4,7 @@
   "description": "IPLocator for Discord",
   "main": "iplocator.js",
   "dependencies": {
-    "discord.js": "^11.4.2",
+    "discord.js": "^12.5.0",
     "superagent": "^5.0.5"
   },
   "devDependencies": {},
